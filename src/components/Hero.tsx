@@ -26,7 +26,7 @@ export function Hero() {
             <img
               src="/src/assets/alexia-headshot.jpg"
               alt="Alexia Sahara"
-              className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-primary/20"
+              className="w-96 h-96 rounded-full mx-auto mb-6 object-cover border-4 border-primary/20"
               onError={(e) => {
                 const target = e.target as HTMLImageElement
                 target.style.display = "none"
