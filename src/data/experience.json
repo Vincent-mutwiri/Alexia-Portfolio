@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "role": "Regional Education Sales Specialist / Project & Events Manager",
+    "company": "Snapplify",
+    "period": "Feb 2022 – Present",
+    "duties": [
+      "Led EdTech content-digitalization roll-outs in Kenya, Tanzania, Rwanda & Burundi.",
+      "Managed government partnerships on projects such as the TIE roll-out.",
+      "Grew regional revenue past KES 14 million in one year."
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Business Development Manager",
+    "company": "eLimu",
+    "period": "Feb 2019 – Dec 2021",
+    "duties": [
+      "Built partnerships with NGOs & corporates for digital-learning projects.",
+      "Doubled web users to 500k+ and tripled app downloads via targeted outreach.",
+      "Grew revenue by 70% and led cross-functional teams."
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Business Development Executive / Customer-Service Rep.",
+    "company": "Eneza Education",
+    "period": "Aug 2017 – Feb 2019",
+    "duties": [
+      "Supported delivery of mobile learning content to 6m+ users.",
+      "Shifted from support to sales, consistently beating targets.",
+      "Ran workshops & partner trainings, boosting client retention."
+    ]
+  }
+]
+

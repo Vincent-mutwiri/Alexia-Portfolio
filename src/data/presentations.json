@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "East Africa Teacher-Training Workshop Series",
+    "type": "Lead Facilitator",
+    "venue": "Snapplify & Ministry partners",
+    "year": "2023–24",
+    "notes": "Hands-on digital-skills training for 300+ teachers."
+  },
+  {
+    "id": 2,
+    "title": "TIE Digital-Content Roll-out Briefing",
+    "type": "Project Presentation",
+    "venue": "Tanzania Institute of Education",
+    "year": 2023,
+    "notes": "Scoped deliverables and stakeholder expectations."
+  },
+  {
+    "id": 3,
+    "title": "GESCI Teacher-Training Initiative",
+    "type": "Programme Manager & Speaker",
+    "venue": "eLimu / GESCI",
+    "year": 2020,
+    "notes": "Designed & delivered CPD sessions for 120 educators."
+  }
+]
+

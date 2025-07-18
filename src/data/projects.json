@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Regional Digital-Content Roll-outs (Snapplify)",
+    "description": "Implemented e-learning platforms and digitized curricula across four East-African countries, impacting 400+ schools.",
+    "skills": ["Project Management", "Government Liaison", "Content Strategy"]
+  },
+  {
+    "id": 2,
+    "title": "User-Growth Campaign (eLimu)",
+    "description": "Drove web users from 250k to 500k+ and tripled app downloads through targeted school activations and marketing partnerships.",
+    "skills": ["Growth Marketing", "Data-Driven Outreach", "Event Coordination"]
+  },
+  {
+    "id": 3,
+    "title": "Safaricom Mobile-Learning Expansion (Eneza)",
+    "description": "Helped deliver SMS-based learning content to 6m+ learners, while transitioning from support to business-development role.",
+    "skills": ["Sales Enablement", "Customer Success", "Stakeholder Engagement"]
+  }
+]
+
