@@ -1,5 +1,6 @@
 import { Download, Mail } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import alexiaHeadshot from "@/assets/alexia-headshot.jpg"
 
 export function Hero() {
   const scrollToContact = () => {
@@ -24,7 +25,7 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <img
-              src="/src/assets/alexia-headshot.jpg"
+              src={alexiaHeadshot}
               alt="Alexia Sahara"
               className="w-96 h-96 rounded-full mx-auto mb-6 object-cover border-4 border-primary/20"
               onError={(e) => {
@@ -63,4 +64,3 @@ export function Hero() {
     </section>
   )
 }
-
